@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/mousy69/mousy69/blob/main/Screen%20Shot%202021-02-14%20at%205.12.00%20PM.png?raw=true"/>
 
 <!--
 **mousy69/mousy69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
